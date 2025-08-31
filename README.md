@@ -1,6 +1,6 @@
 # Sorting Algorithm Visualizer
 
-![Project Screenshot](./screenshot.png) <!-- Add a screenshot later -->
+
 
 A interactive web application that visualizes how different sorting algorithms work in real-time. Perfect for students, educators, and anyone interested in understanding sorting algorithms through visualization.
 
